@@ -16,7 +16,11 @@ TheDon DOES NOT COME WITH A VPN OR PROXY! YOUR IP WILL BE VISABLE IF YOU USE THE
 
 # Installation 
 
-``git clone https://github.com/YourAnonMafia/TheDon``
+git clone the original ``git clone https://github.com/YourAnonMafia/TheDon``
+
+or git clone the remastered https://github.com/pl8g/TheDon
+
+
 
 ``cd TheDon``
 
